@@ -10,6 +10,7 @@ mod base;
 mod bubble;
 mod cnf;
 mod constant_eval;
+mod int_to_bool;
 mod matrix;
 mod minion;
 mod normalisers;
